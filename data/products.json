@@ -48,5 +48,51 @@
     "reviewCount": 0,
     "createdAt": "2025-07-28T15:19:35.405Z",
     "updatedAt": "2025-07-28T15:19:35.405Z"
+  },
+  {
+    "id": "product_1753732429810_8fv49k6o1",
+    "name": "testing",
+    "description": "hi",
+    "price": 122,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1753732427846.jpg"
+    ],
+    "category": "jewelry",
+    "subcategory": "necklace",
+    "material": "",
+    "brand": "test",
+    "gender": "female",
+    "inStock": true,
+    "featured": true,
+    "isNew": true,
+    "isOnSale": true,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "test",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "karachi",
+      "lahore",
+      "islamabad",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "test",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Warranty": "Available",
+      "Origin": "Authentic"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "createdAt": "2025-07-28T19:53:49.810Z",
+    "updatedAt": "2025-07-28T19:53:49.811Z"
   }
 ]
