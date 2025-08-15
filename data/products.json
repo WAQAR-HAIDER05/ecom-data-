@@ -285,5 +285,50 @@
     "reviewCount": 0,
     "createdAt": "2025-08-15T16:44:19.953Z",
     "updatedAt": "2025-08-15T16:44:19.953Z"
+  },
+  {
+    "id": "product_1755276475196_niay57b05",
+    "name": "Trinity Bracelets",
+    "description": "\nWater proof\nTarnish free\nA1 quality\n3 pec bracelets \n",
+    "price": 3199,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755276469533.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755276473252.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "bracelets",
+    "material": "Stainless steel ",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel ",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel ",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "createdAt": "2025-08-15T16:47:55.197Z",
+    "updatedAt": "2025-08-15T16:47:55.197Z"
   }
 ]
