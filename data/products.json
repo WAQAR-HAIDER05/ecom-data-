@@ -191,5 +191,52 @@
     "reviewCount": 0,
     "createdAt": "2025-08-15T16:35:28.472Z",
     "updatedAt": "2025-08-15T16:35:28.472Z"
+  },
+  {
+    "id": "product_1755276012045_zjrx6kcvr",
+    "name": "Florina Necklace",
+    "description": "New Design\nTrending flower necklace \n Five Colors available\nA1 quality\nWater proof\nTarnish free\n",
+    "price": 850,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755276002951.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755276006727.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755276008369.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755276010102.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "necklaces",
+    "material": "Stainless steel ",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel ",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel ",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "createdAt": "2025-08-15T16:40:12.046Z",
+    "updatedAt": "2025-08-15T16:40:12.046Z"
   }
 ]
