@@ -419,5 +419,57 @@
     "reviewCount": 0,
     "createdAt": "2025-08-15T16:59:03.236Z",
     "updatedAt": "2025-08-15T16:59:03.236Z"
+  },
+  {
+    "id": "product_1755277463646_7yi5wkquh",
+    "name": "Crysta C cuff",
+    "description": "New design c cuff\nTrending item\nHigh quality\nStainless steel\nWater proof \nTarnish free\n",
+    "price": 3650,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755277429206.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755277436594.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755277439564.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755277443145.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755277450830.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755277452772.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755277454514.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755277457379.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755277460554.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "handcuffs",
+    "material": "Stainless steel",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "createdAt": "2025-08-15T17:04:23.647Z",
+    "updatedAt": "2025-08-15T17:04:23.647Z"
   }
 ]
