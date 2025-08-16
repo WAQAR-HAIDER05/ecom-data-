@@ -612,5 +612,50 @@
     "reviewCount": 0,
     "createdAt": "2025-08-16T20:04:33.769Z",
     "updatedAt": "2025-08-16T20:04:33.769Z"
+  },
+  {
+    "id": "product_1755374891273_vmodijqby",
+    "name": "Day-Date",
+    "description": "904L Stainless Steel\nAutomatic Movement",
+    "price": 34000,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755374869448.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755374873267.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755374877460.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755374881475.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755374887148.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "premium-luxury",
+    "material": "",
+    "brand": "",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "createdAt": "2025-08-16T20:08:11.274Z",
+    "updatedAt": "2025-08-16T20:08:11.274Z"
   }
 ]
