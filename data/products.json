@@ -566,5 +566,51 @@
     "reviewCount": 0,
     "createdAt": "2025-08-16T19:59:38.719Z",
     "updatedAt": "2025-08-16T19:59:38.719Z"
+  },
+  {
+    "id": "product_1755374673768_vhwp748df",
+    "name": "President Day-Date",
+    "description": "904L Stainless Steel\nAutomatic Movement",
+    "price": 33299,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755374661484.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755374666022.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755374669542.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "premium-luxury",
+    "material": "",
+    "brand": "Rolex",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "rolex",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "Rolex",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "createdAt": "2025-08-16T20:04:33.769Z",
+    "updatedAt": "2025-08-16T20:04:33.769Z"
   }
 ]
