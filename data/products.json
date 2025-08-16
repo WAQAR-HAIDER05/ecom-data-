@@ -519,5 +519,52 @@
     "reviewCount": 0,
     "createdAt": "2025-08-16T19:18:56.766Z",
     "updatedAt": "2025-08-16T19:18:56.766Z"
+  },
+  {
+    "id": "product_1755374378718_i3vyw97cp",
+    "name": "Oyster Perpetual Day-Date",
+    "description": "904L Stainless Steel Automatic Movement",
+    "price": 32500,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755374366543.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755374370078.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755374372838.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755374375768.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "premium-luxury",
+    "material": "",
+    "brand": "Rolex",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "rolex",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "Rolex",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "createdAt": "2025-08-16T19:59:38.719Z",
+    "updatedAt": "2025-08-16T19:59:38.719Z"
   }
 ]
