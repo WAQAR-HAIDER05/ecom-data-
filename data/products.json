@@ -471,48 +471,5 @@
     "reviewCount": 0,
     "createdAt": "2025-08-15T17:04:23.647Z",
     "updatedAt": "2025-08-15T17:04:23.647Z"
-  },
-  {
-    "id": "product_1755294391154_yxwittv74",
-    "name": "ABC",
-    "description": "Abc",
-    "price": 2222,
-    "currency": "PKR",
-    "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755294388688.webp"
-    ],
-    "category": "watches",
-    "subcategory": "male-watches",
-    "material": "Abc",
-    "brand": "ABC",
-    "gender": "unisex",
-    "inStock": true,
-    "featured": false,
-    "isNew": true,
-    "isOnSale": false,
-    "tags": [
-      "timepiece",
-      "watch",
-      "luxury watch",
-      "abc",
-      "branded",
-      "unisex",
-      "pakistan",
-      "authentic"
-    ],
-    "specifications": {
-      "Material": "Abc",
-      "Brand": "ABC",
-      "Gender": "Unisex",
-      "Category": "Watches",
-      "Condition": "New",
-      "Origin": "Authentic",
-      "Type": "Analog",
-      "Water Resistance": "Yes"
-    },
-    "rating": 0,
-    "reviewCount": 0,
-    "createdAt": "2025-08-15T21:46:31.155Z",
-    "updatedAt": "2025-08-15T21:46:31.155Z"
   }
 ]
