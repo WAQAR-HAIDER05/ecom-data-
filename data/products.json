@@ -794,52 +794,5 @@
     "reviewCount": 0,
     "createdAt": "2025-08-17T11:45:13.286Z",
     "updatedAt": "2025-08-17T11:45:13.286Z"
-  },
-  {
-    "id": "product_1755431678494_22hgteuqz",
-    "name": "Pearl Drop Anklet",
-    "description": "\nDesign: Dangling pearls for subtle movement and shine\nStyle: Elegant, versatile, and timeless\n✨ A must-have accessory for those who adore pearls with a modern twist.\nWater proof\nTarnish free\nA1 quality\nHigh quality\n",
-    "price": 850,
-    "currency": "PKR",
-    "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755431668903.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755431672358.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755431674504.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755431676352.jpeg"
-    ],
-    "category": "jewelry",
-    "subcategory": "anklets",
-    "material": "Stainless steel",
-    "brand": "Arhama Ki Dukan",
-    "gender": "female",
-    "inStock": true,
-    "featured": false,
-    "isNew": true,
-    "isOnSale": false,
-    "tags": [
-      "jewelry",
-      "accessory",
-      "luxury jewelry",
-      "stainless steel",
-      "arhama ki dukan",
-      "branded",
-      "female",
-      "women",
-      "ladies",
-      "pakistan",
-      "authentic"
-    ],
-    "specifications": {
-      "Material": "Stainless steel",
-      "Brand": "Arhama Ki Dukan",
-      "Gender": "Female",
-      "Category": "Jewelry",
-      "Condition": "New",
-      "Origin": "Authentic"
-    },
-    "rating": 0,
-    "reviewCount": 0,
-    "createdAt": "2025-08-17T11:54:38.495Z",
-    "updatedAt": "2025-08-17T11:54:38.495Z"
   }
 ]
