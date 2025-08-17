@@ -888,5 +888,51 @@
     "reviewCount": 0,
     "createdAt": "2025-08-17T12:18:47.460Z",
     "updatedAt": "2025-08-17T12:18:47.460Z"
+  },
+  {
+    "id": "product_1755433538377_krhpr9ksb",
+    "name": "Seraphine ",
+    "description": "A sleek golden snake chain flows gracefully around the neck, finished with a luminous drop-shaped stone at its center — a timeless symbol of elegance and allure. New trending item\nPink, white and green colours available \nWater proof\nTarnish free\nHigh quality\nA1 quality\n",
+    "price": 1250,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755433531656.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755433535165.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755433536847.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "necklaces",
+    "material": "Stainless steel ",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel ",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel ",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "createdAt": "2025-08-17T12:25:38.378Z",
+    "updatedAt": "2025-08-17T12:25:38.378Z"
   }
 ]
