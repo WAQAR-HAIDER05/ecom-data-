@@ -841,5 +841,52 @@
     "reviewCount": 0,
     "createdAt": "2025-08-17T12:03:46.177Z",
     "updatedAt": "2025-08-17T12:03:46.177Z"
+  },
+  {
+    "id": "product_1755433127459_gltvkn42y",
+    "name": "Orla Pearl Anklet",
+    "description": "A sleek golden chain lined with radiant pearls, blending classic elegance with modern charm, the perfect touch of luxury for any look.\nWater proof\nTarnish free\nA1 quality\nPearl anklet\nHigh quality",
+    "price": 859,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755433118164.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755433122258.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755433123983.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755433125955.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "anklets",
+    "material": "Stainless steel ",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel ",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel ",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "createdAt": "2025-08-17T12:18:47.460Z",
+    "updatedAt": "2025-08-17T12:18:47.460Z"
   }
 ]
