@@ -707,5 +707,50 @@
     "reviewCount": 0,
     "createdAt": "2025-08-16T20:15:56.005Z",
     "updatedAt": "2025-08-16T20:15:56.006Z"
+  },
+  {
+    "id": "product_1755430882480_2ge0oo0vy",
+    "name": "Bling Bend Ring ",
+    "description": "Gold-tone metal\nDesign: Open adjustable cuff style\nDetailing: One side embellished with shimmering crystals\nStyle: Contemporary, chic, and versatile",
+    "price": 1499,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755430873547.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755430877468.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755430879311.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755430880847.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "rings",
+    "material": "",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "createdAt": "2025-08-17T11:41:22.481Z",
+    "updatedAt": "2025-08-17T11:41:22.481Z"
   }
 ]
