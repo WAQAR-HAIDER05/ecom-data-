@@ -752,5 +752,47 @@
     "reviewCount": 0,
     "createdAt": "2025-08-17T11:41:22.481Z",
     "updatedAt": "2025-08-17T11:41:22.481Z"
+  },
+  {
+    "id": "product_1755431113285_5yohquzwh",
+    "name": "Bling Bend Ring",
+    "description": "New design ring\nMulti color\nTrending item\nHigh quality\nStainless steel\nWater proof \n\nDesign: Open adjustable cuff style\nDetailing: One side embellished with shimmering multi coloured crystals\nStyle: Contemporary, chic, and versatile\n",
+    "price": 1299,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1755431109308.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "rings",
+    "material": "",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "createdAt": "2025-08-17T11:45:13.286Z",
+    "updatedAt": "2025-08-17T11:45:13.286Z"
   }
 ]
