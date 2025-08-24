@@ -1954,5 +1954,47 @@
     },
     "createdAt": "2025-08-24T13:34:07.872Z",
     "updatedAt": "2025-08-24T13:34:07.872Z"
+  },
+  {
+    "id": "product_1756043157006_w5qvjr4r3",
+    "name": "Doria Studs",
+    "description": "Restocked \nTarnish free \nWater proof ",
+    "price": 450,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756043152438.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "earrings",
+    "material": "Stainless steel",
+    "brand": "Arhama Ki Dukan ",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel",
+      "arhama ki dukan ",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel",
+      "Brand": "Arhama Ki Dukan ",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-08-24T13:45:57.007Z",
+    "updatedAt": "2025-08-24T13:45:57.007Z"
   }
 ]
