@@ -1559,18 +1559,18 @@
     "updatedAt": "2025-08-24T07:08:37.628Z"
   },
   {
-    "id": "product_1756019629872_k6h90s1yk",
-    "name": "Core Combo",
-    "description": "A symbol of love and connection, made to be cherished forever.\nRestock 🥳\nMost demanding item\nHearth combo set ",
-    "price": 2250,
+    "id": "product_1756019877043_u68w626sj",
+    "name": "Fleur Necklace",
+    "description": "The bow entwines with the heart in golden harmony.\nA1 Quality \n",
+    "price": 999,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756019622854.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756019626278.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756019628217.jpeg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756019870176.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756019873480.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756019874896.jpeg"
     ],
     "category": "jewelry",
-    "subcategory": "combos",
+    "subcategory": "necklaces",
     "material": "Stainless steel ",
     "brand": "Arhama Ki Dukan",
     "gender": "female",
@@ -1599,7 +1599,7 @@
       "Condition": "New",
       "Origin": "Authentic"
     },
-    "createdAt": "2025-08-24T07:13:49.874Z",
-    "updatedAt": "2025-08-24T07:13:49.874Z"
+    "createdAt": "2025-08-24T07:17:57.043Z",
+    "updatedAt": "2025-08-24T07:17:57.044Z"
   }
 ]
