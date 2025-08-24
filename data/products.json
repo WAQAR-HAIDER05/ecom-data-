@@ -1645,5 +1645,49 @@
     },
     "createdAt": "2025-08-24T07:24:37.430Z",
     "updatedAt": "2025-08-24T07:24:37.430Z"
+  },
+  {
+    "id": "product_1756039277775_4n4atx7rp",
+    "name": "Dangle Combo",
+    "description": "COMBO\n\nA worth having sparkling combo\nTrending new design\nA1 quality \nWaterproof 💦 \nTarnish free 💫\n",
+    "price": 2950,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039270305.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039274401.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039275765.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "combos",
+    "material": "Stainless steel ",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel ",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel ",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-08-24T12:41:17.776Z",
+    "updatedAt": "2025-08-24T12:41:17.776Z"
   }
 ]
