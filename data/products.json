@@ -1647,18 +1647,18 @@
     "updatedAt": "2025-08-24T07:24:37.430Z"
   },
   {
-    "id": "product_1756039277775_4n4atx7rp",
-    "name": "Dangle Combo",
-    "description": "COMBO\n\nA worth having sparkling combo\nTrending new design\nA1 quality \nWaterproof 💦 \nTarnish free 💫\n",
-    "price": 2950,
+    "id": "product_1756039420827_h9b1izoti",
+    "name": "Nova Necklace ",
+    "description": "\nStar ⭐ necaklce \nA1 quality \nWaterproof 🌟\nTarnish free✨\n",
+    "price": 650,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039270305.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039274401.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039275765.jpeg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039414219.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039417149.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039419305.jpeg"
     ],
     "category": "jewelry",
-    "subcategory": "combos",
+    "subcategory": "necklaces",
     "material": "Stainless steel ",
     "brand": "Arhama Ki Dukan",
     "gender": "female",
@@ -1687,7 +1687,7 @@
       "Condition": "New",
       "Origin": "Authentic"
     },
-    "createdAt": "2025-08-24T12:41:17.776Z",
-    "updatedAt": "2025-08-24T12:41:17.776Z"
+    "createdAt": "2025-08-24T12:43:40.828Z",
+    "updatedAt": "2025-08-24T12:43:40.828Z"
   }
 ]
