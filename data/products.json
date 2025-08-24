@@ -2223,7 +2223,7 @@
     "id": "product_1756047580110_14876l1mc",
     "name": "Cartier Enlace",
     "description": "Cartier’s three-lined bangle — a timeless emblem of elegance, unity, and sophistication. Crafted with grace, it captures the essence of everlasting luxury.\nhigh quality \nLuxury Cartier design bangle \n",
-    "price": 650,
+    "price": 1650,
     "currency": "PKR",
     "images": [
       "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756047574207.jpeg",
@@ -2260,6 +2260,6 @@
       "Origin": "Authentic"
     },
     "createdAt": "2025-08-24T14:59:40.111Z",
-    "updatedAt": "2025-08-24T14:59:40.111Z"
+    "updatedAt": "2025-08-24T17:57:07.528Z"
   }
 ]
