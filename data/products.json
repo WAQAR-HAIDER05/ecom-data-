@@ -2133,19 +2133,19 @@
     "updatedAt": "2025-08-24T14:28:52.360Z"
   },
   {
-    "id": "product_1756046865463_jttr8l4ko",
-    "name": "Liora Ring",
-    "description": "A timeless piece that blends organic beauty with refined artistry.",
+    "id": "product_1756047071912_7um09p5w6",
+    "name": "Evvera Anklet",
+    "description": "A soft touch of elegance that adds feminine charm to every step.",
     "price": 480,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756046858169.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756046861784.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756046863627.jpeg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756047063529.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756047067417.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756047069550.jpeg"
     ],
     "category": "jewelry",
-    "subcategory": "rings",
-    "material": "Stainless Steel",
+    "subcategory": "anklets",
+    "material": "Stainless steel ",
     "brand": "Arhama Ki Dukan",
     "gender": "female",
     "inStock": true,
@@ -2156,7 +2156,7 @@
       "jewelry",
       "accessory",
       "luxury jewelry",
-      "stainless steel",
+      "stainless steel ",
       "arhama ki dukan",
       "branded",
       "female",
@@ -2166,14 +2166,14 @@
       "authentic"
     ],
     "specifications": {
-      "Material": "Stainless Steel",
+      "Material": "Stainless steel ",
       "Brand": "Arhama Ki Dukan",
       "Gender": "Female",
       "Category": "Jewelry",
       "Condition": "New",
       "Origin": "Authentic"
     },
-    "createdAt": "2025-08-24T14:47:45.464Z",
-    "updatedAt": "2025-08-24T14:47:45.464Z"
+    "createdAt": "2025-08-24T14:51:11.913Z",
+    "updatedAt": "2025-08-24T14:51:11.913Z"
   }
 ]
