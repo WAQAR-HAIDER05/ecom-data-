@@ -1736,18 +1736,18 @@
     "updatedAt": "2025-08-24T12:49:27.740Z"
   },
   {
-    "id": "product_1756040001580_3oxcgafa5",
-    "name": "Soul Stone Necklace",
-    "description": " \n“A luminous heart-shaped stone that embodies love and timeless beauty. Crafted to symbolize connection, warmth, and everlasting elegance.”\n\nHeart stone necklace \nNew trending article \nA1 quality 👆\nWaterproof ✨\ntarnish free 💫\n",
-    "price": 999,
+    "id": "product_1756040293215_jwjy4r30z",
+    "name": "Darcel Studs",
+    "description": "Branded stud \nA1 quality \nWaterproof ✨\nTarnish free💫\n",
+    "price": 650,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039993347.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039998001.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039999640.jpeg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756040286921.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756040290050.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756040291686.jpeg"
     ],
     "category": "jewelry",
-    "subcategory": "necklaces",
+    "subcategory": "earrings",
     "material": "Stainless steel ",
     "brand": "Arhama Ki Dukan",
     "gender": "female",
@@ -1776,7 +1776,7 @@
       "Condition": "New",
       "Origin": "Authentic"
     },
-    "createdAt": "2025-08-24T12:53:21.581Z",
-    "updatedAt": "2025-08-24T12:53:21.581Z"
+    "createdAt": "2025-08-24T12:58:13.216Z",
+    "updatedAt": "2025-08-24T12:58:13.216Z"
   }
 ]
