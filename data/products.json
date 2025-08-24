@@ -1865,5 +1865,49 @@
     },
     "createdAt": "2025-08-24T13:11:36.372Z",
     "updatedAt": "2025-08-24T13:11:36.372Z"
+  },
+  {
+    "id": "product_1756041204099_hzfgh17uk",
+    "name": "Dahlia Studs",
+    "description": "\nGolden Flower Studs\nRestock\nWaterproof \nTarnish free\n",
+    "price": 450,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756041197168.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756041200826.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756041202569.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "earrings",
+    "material": "Stainless steel ",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel ",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel ",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-08-24T13:13:24.100Z",
+    "updatedAt": "2025-08-24T13:13:24.100Z"
   }
 ]
