@@ -1689,5 +1689,49 @@
     },
     "createdAt": "2025-08-24T12:43:40.828Z",
     "updatedAt": "2025-08-24T12:43:40.828Z"
+  },
+  {
+    "id": "product_1756039661507_4bjsfw8ss",
+    "name": "Golden Knot",
+    "description": "Waterproof 💫\nTarnish free ✨\nA1 quality \n",
+    "price": 580,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039655067.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039658198.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039659771.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "earrings",
+    "material": "Stainless steel ",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel ",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel ",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-08-24T12:47:41.507Z",
+    "updatedAt": "2025-08-24T12:47:41.507Z"
   }
 ]
