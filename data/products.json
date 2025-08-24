@@ -1909,5 +1909,50 @@
     },
     "createdAt": "2025-08-24T13:13:24.100Z",
     "updatedAt": "2025-08-24T13:13:24.100Z"
+  },
+  {
+    "id": "product_1756042447871_f2cetcm9h",
+    "name": "Marina Studs",
+    "description": "Inspired by the beauty of the sea, these starfish studs shimmer with coastal charm. A delicate touch of ocean elegance, perfect for timeless style.\nRestocked\nWaterproof \nTarnish free\n",
+    "price": 450,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756042438755.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756042442655.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756042444599.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756042446035.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "earrings",
+    "material": "Stainless steel ",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel ",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel ",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-08-24T13:34:07.872Z",
+    "updatedAt": "2025-08-24T13:34:07.872Z"
   }
 ]
