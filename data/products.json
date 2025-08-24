@@ -2131,5 +2131,49 @@
     },
     "createdAt": "2025-08-24T14:28:52.360Z",
     "updatedAt": "2025-08-24T14:28:52.360Z"
+  },
+  {
+    "id": "product_1756046865463_jttr8l4ko",
+    "name": "Liora Ring",
+    "description": "A timeless piece that blends organic beauty with refined artistry.",
+    "price": 480,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756046858169.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756046861784.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756046863627.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "rings",
+    "material": "Stainless Steel",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless Steel",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-08-24T14:47:45.464Z",
+    "updatedAt": "2025-08-24T14:47:45.464Z"
   }
 ]
