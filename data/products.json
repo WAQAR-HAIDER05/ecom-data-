@@ -1691,20 +1691,21 @@
     "updatedAt": "2025-08-24T12:43:40.828Z"
   },
   {
-    "id": "product_1756039661507_4bjsfw8ss",
-    "name": "Golden Knot",
-    "description": "Waterproof 💫\nTarnish free ✨\nA1 quality \n",
+    "id": "product_1756039767740_quvl8r04b",
+    "name": "Golden Charm",
+    "description": "\nWaterproof 💫\nTarnish free ✨\nA1 quality ",
     "price": 580,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039655067.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039658198.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039659771.jpeg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039760348.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039763418.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039764990.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756039766440.jpeg"
     ],
     "category": "jewelry",
     "subcategory": "earrings",
     "material": "Stainless steel ",
-    "brand": "Arhama Ki Dukan",
+    "brand": "Arhama Ki Dukan ",
     "gender": "female",
     "inStock": true,
     "featured": false,
@@ -1715,7 +1716,7 @@
       "accessory",
       "luxury jewelry",
       "stainless steel ",
-      "arhama ki dukan",
+      "arhama ki dukan ",
       "branded",
       "female",
       "women",
@@ -1725,13 +1726,13 @@
     ],
     "specifications": {
       "Material": "Stainless steel ",
-      "Brand": "Arhama Ki Dukan",
+      "Brand": "Arhama Ki Dukan ",
       "Gender": "Female",
       "Category": "Jewelry",
       "Condition": "New",
       "Origin": "Authentic"
     },
-    "createdAt": "2025-08-24T12:47:41.507Z",
-    "updatedAt": "2025-08-24T12:47:41.507Z"
+    "createdAt": "2025-08-24T12:49:27.740Z",
+    "updatedAt": "2025-08-24T12:49:27.740Z"
   }
 ]
