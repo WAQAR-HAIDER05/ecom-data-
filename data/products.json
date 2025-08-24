@@ -1601,5 +1601,49 @@
     },
     "createdAt": "2025-08-24T07:17:57.043Z",
     "updatedAt": "2025-08-24T07:17:57.044Z"
+  },
+  {
+    "id": "product_1756020277429_jsdhxi8px",
+    "name": "Ray Locket",
+    "description": "“A radiant locket holding a stone at its core, glowing in three enchanting colours. A timeless emblem of light, warmth, and inner beauty.”\nTrending design \nWaterproof 💦\nTarnish free✨\nA1 quality ",
+    "price": 850,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756020269698.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756020273854.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756020275696.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "locket-sets",
+    "material": "Stainless steel ",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel ",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel ",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-08-24T07:24:37.430Z",
+    "updatedAt": "2025-08-24T07:24:37.430Z"
   }
 ]
