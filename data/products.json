@@ -2045,20 +2045,19 @@
     "updatedAt": "2025-08-24T13:55:38.851Z"
   },
   {
-    "id": "product_1756045339981_kd56dev5x",
-    "name": "Weave Bracelet ",
-    "description": "An elegant braided bracelet, symbolizing strength and unity through its woven design.",
-    "price": 1499,
+    "id": "product_1756045519906_t94brywju",
+    "name": "AquaNile Necklace",
+    "description": "Inspired by the timeless flow of the Nile, this aqua oval necklace radiates elegance and serenity. A luminous piece that captures the essence of water, life, and beauty.",
+    "price": 999,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756045330218.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756045334458.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756045336200.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756045337941.jpeg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756045513342.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756045516844.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756045518476.jpeg"
     ],
     "category": "jewelry",
-    "subcategory": "bracelets",
-    "material": "Stainless steel ",
+    "subcategory": "necklaces",
+    "material": "Stainless Steel",
     "brand": "Arhama Ki Dukan",
     "gender": "female",
     "inStock": true,
@@ -2069,7 +2068,7 @@
       "jewelry",
       "accessory",
       "luxury jewelry",
-      "stainless steel ",
+      "stainless steel",
       "arhama ki dukan",
       "branded",
       "female",
@@ -2079,14 +2078,14 @@
       "authentic"
     ],
     "specifications": {
-      "Material": "Stainless steel ",
+      "Material": "Stainless Steel",
       "Brand": "Arhama Ki Dukan",
       "Gender": "Female",
       "Category": "Jewelry",
       "Condition": "New",
       "Origin": "Authentic"
     },
-    "createdAt": "2025-08-24T14:22:19.982Z",
-    "updatedAt": "2025-08-24T14:22:19.982Z"
+    "createdAt": "2025-08-24T14:25:19.907Z",
+    "updatedAt": "2025-08-24T14:25:19.907Z"
   }
 ]
