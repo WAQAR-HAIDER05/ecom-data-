@@ -2043,5 +2043,50 @@
     },
     "createdAt": "2025-08-24T13:55:38.851Z",
     "updatedAt": "2025-08-24T13:55:38.851Z"
+  },
+  {
+    "id": "product_1756045339981_kd56dev5x",
+    "name": "Weave Bracelet ",
+    "description": "An elegant braided bracelet, symbolizing strength and unity through its woven design.",
+    "price": 1499,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756045330218.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756045334458.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756045336200.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756045337941.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "bracelets",
+    "material": "Stainless steel ",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel ",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel ",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-08-24T14:22:19.982Z",
+    "updatedAt": "2025-08-24T14:22:19.982Z"
   }
 ]
