@@ -1780,16 +1780,18 @@
     "updatedAt": "2025-08-24T12:58:13.216Z"
   },
   {
-    "id": "product_1756040411286_3118f808k",
-    "name": "Core combo",
-    "description": "\nHeart combo \nNecaklce & stud ✨\nWaterproof \nTarnish free❤️\n",
-    "price": 1550,
+    "id": "product_1756040638537_en4xu655a",
+    "name": "Onyx Studs",
+    "description": "Chic square studs designed in two striking colorways, balancing modern style with timeless elegance.\nWaterproof \nTarnish free \nSquare stud \nBlack & white colours \nA1 quality ",
+    "price": 450,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756040407649.jpeg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756040630832.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756040635274.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756040637011.jpeg"
     ],
     "category": "jewelry",
-    "subcategory": "combos",
+    "subcategory": "earrings",
     "material": "Stainless steel ",
     "brand": "Arhama Ki Dukan",
     "gender": "female",
@@ -1818,7 +1820,7 @@
       "Condition": "New",
       "Origin": "Authentic"
     },
-    "createdAt": "2025-08-24T13:00:11.287Z",
-    "updatedAt": "2025-08-24T13:00:11.287Z"
+    "createdAt": "2025-08-24T13:03:58.538Z",
+    "updatedAt": "2025-08-24T13:03:58.538Z"
   }
 ]
