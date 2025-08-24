@@ -1822,5 +1822,49 @@
     },
     "createdAt": "2025-08-24T13:03:58.538Z",
     "updatedAt": "2025-08-24T13:03:58.538Z"
+  },
+  {
+    "id": "product_1756040845797_3uv5y3j7f",
+    "name": "Clovera Bangle",
+    "description": "“A timeless bangle adorned with the iconic clover, symbolizing luck, love, and elegance. Crafted to bring charm and grace to every occasion.”\nClover bangle 🍀\nTrending new design\nA1 quality \n",
+    "price": 1549,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756040837724.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756040841914.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756040843958.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "handcuffs",
+    "material": "Stainless steel ",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel ",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel ",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-08-24T13:07:25.798Z",
+    "updatedAt": "2025-08-24T13:07:25.798Z"
   }
 ]
