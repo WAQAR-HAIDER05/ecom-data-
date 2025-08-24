@@ -2087,5 +2087,49 @@
     },
     "createdAt": "2025-08-24T14:25:19.907Z",
     "updatedAt": "2025-08-24T14:25:19.907Z"
+  },
+  {
+    "id": "product_1756045732359_hmf3nr2e3",
+    "name": "Amoré Combo",
+    "description": "A graceful duo of necklace and earrings adorned with delicate bows, symbolizing charm and elegance.\nHigh Quality ",
+    "price": 1450,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756045725296.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756045728883.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756045730826.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "combos",
+    "material": "Stainless Steel",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless Steel",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-08-24T14:28:52.360Z",
+    "updatedAt": "2025-08-24T14:28:52.360Z"
   }
 ]
