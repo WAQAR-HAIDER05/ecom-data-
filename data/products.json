@@ -2481,5 +2481,51 @@
     },
     "createdAt": "2025-08-30T16:36:19.867Z",
     "updatedAt": "2025-08-30T16:36:19.867Z"
+  },
+  {
+    "id": "product_1756572111013_mtmije6c3",
+    "name": "Imperial Ring",
+    "description": "High Quality & Trending Design. A statement ring inspired by the timeless elegance of Roman numerals.\nIts bold golden bands are balanced with a sparkling crystal row at the center.",
+    "price": 1250,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756572097208.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756572100681.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756572103955.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756572107046.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756572109075.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "rings",
+    "material": "Stainless steel ",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel ",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel ",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-08-30T16:41:51.014Z",
+    "updatedAt": "2025-08-30T16:41:51.014Z"
   }
 ]
