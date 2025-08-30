@@ -2263,19 +2263,18 @@
     "updatedAt": "2025-08-24T17:57:07.528Z"
   },
   {
-    "id": "product_1756570083076_y8hdb0aip",
-    "name": "Balgari Supremacy ",
-    "description": "An iconic Bulgari necklace and earrings combo designed to shine with sophistication.\nThe perfect blend of timeless elegance and modern luxury.",
-    "price": 1050,
+    "id": "product_1756570292996_dr70gm8i7",
+    "name": "Corte Earrings ",
+    "description": " \nHigh quality 316L furnace \nTrending earrings",
+    "price": 1250,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756570076529.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756570079805.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756570081647.jpeg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756570286690.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756570291260.jpeg"
     ],
     "category": "jewelry",
-    "subcategory": "combos",
-    "material": "Stainless Steel",
+    "subcategory": "earrings",
+    "material": "Stainless steel ",
     "brand": "Arhama Ki Dukan",
     "gender": "female",
     "inStock": true,
@@ -2286,7 +2285,7 @@
       "jewelry",
       "accessory",
       "luxury jewelry",
-      "stainless steel",
+      "stainless steel ",
       "arhama ki dukan",
       "branded",
       "female",
@@ -2296,14 +2295,14 @@
       "authentic"
     ],
     "specifications": {
-      "Material": "Stainless Steel",
+      "Material": "Stainless steel ",
       "Brand": "Arhama Ki Dukan",
       "Gender": "Female",
       "Category": "Jewelry",
       "Condition": "New",
       "Origin": "Authentic"
     },
-    "createdAt": "2025-08-30T16:08:03.077Z",
-    "updatedAt": "2025-08-30T16:08:03.077Z"
+    "createdAt": "2025-08-30T16:11:32.997Z",
+    "updatedAt": "2025-08-30T16:11:32.997Z"
   }
 ]
