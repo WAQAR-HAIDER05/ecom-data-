@@ -2438,5 +2438,48 @@
     },
     "createdAt": "2025-08-30T16:29:46.345Z",
     "updatedAt": "2025-08-30T16:29:46.345Z"
+  },
+  {
+    "id": "product_1756571779867_ay5r98woc",
+    "name": "Chic Triad",
+    "description": "A harmonious trio of chains — the sleek snake, the radiant stoned, and the symbolic knot.\nStrength, elegance, and connection in one design.\nA versatile statement piece that elevates any wrist with modern luxury.\nWater Proof \nTarnish free\nTrending Trio\n\n",
+    "price": 2700,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756571773859.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756571777703.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "combos",
+    "material": "Stainless steel ",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel ",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel ",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-08-30T16:36:19.867Z",
+    "updatedAt": "2025-08-30T16:36:19.867Z"
   }
 ]
