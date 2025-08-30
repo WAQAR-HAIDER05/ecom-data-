@@ -2527,5 +2527,49 @@
     },
     "createdAt": "2025-08-30T16:41:51.014Z",
     "updatedAt": "2025-08-30T16:41:51.014Z"
+  },
+  {
+    "id": "product_1756572437058_t4hy1ze3b",
+    "name": "Bulgari Noir Cuff",
+    "description": "High Quality and Always the Trend!! A bold golden handcuff accented with deep black inlay, embodying strength and elegance.\nIts iconic circular motifs reflect Bulgari’s timeless design language.",
+    "price": 999,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756572429829.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756572434001.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756572435628.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "handcuffs",
+    "material": "Stainless steel ",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel ",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel ",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-08-30T16:47:17.059Z",
+    "updatedAt": "2025-08-30T16:47:17.059Z"
   }
 ]
