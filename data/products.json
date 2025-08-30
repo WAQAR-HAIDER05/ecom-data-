@@ -2612,5 +2612,46 @@
     },
     "createdAt": "2025-08-30T16:52:59.793Z",
     "updatedAt": "2025-08-30T16:52:59.793Z"
+  },
+  {
+    "id": "product_1756592035017_3cfnf7sux",
+    "name": "Smart Watch",
+    "description": "Premium style\nPowerful performance",
+    "price": 5500,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756592023174.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756592030374.jpg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "",
+    "brand": "KWC",
+    "gender": "unisex",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "kwc",
+      "branded",
+      "unisex",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "KWC",
+      "Gender": "Unisex",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-08-30T22:13:55.018Z",
+    "updatedAt": "2025-08-30T22:13:55.023Z"
   }
 ]
