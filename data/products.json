@@ -2261,5 +2261,49 @@
     },
     "createdAt": "2025-08-24T14:59:40.111Z",
     "updatedAt": "2025-08-24T17:57:07.528Z"
+  },
+  {
+    "id": "product_1756570083076_y8hdb0aip",
+    "name": "Balgari Supremacy ",
+    "description": "An iconic Bulgari necklace and earrings combo designed to shine with sophistication.\nThe perfect blend of timeless elegance and modern luxury.",
+    "price": 1050,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756570076529.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756570079805.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756570081647.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "combos",
+    "material": "Stainless Steel",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless Steel",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-08-30T16:08:03.077Z",
+    "updatedAt": "2025-08-30T16:08:03.077Z"
   }
 ]
