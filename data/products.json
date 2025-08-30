@@ -2571,5 +2571,46 @@
     },
     "createdAt": "2025-08-30T16:47:17.059Z",
     "updatedAt": "2025-08-30T16:47:17.059Z"
+  },
+  {
+    "id": "product_1756572779793_wnredio21",
+    "name": "Cupids Cuff",
+    "description": "A radiant golden cuff enhanced with bold red and green stripes at its heart.\nIts engraved detailing and vibrant center make it a symbol of unity and elegance.",
+    "price": 750,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756572774866.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756572777954.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "handcuffs",
+    "material": "Stainless steel ",
+    "brand": "Arhama Ki Dukan",
+    "gender": "unisex",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel ",
+      "arhama ki dukan",
+      "branded",
+      "unisex",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel ",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Unisex",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-08-30T16:52:59.793Z",
+    "updatedAt": "2025-08-30T16:52:59.793Z"
   }
 ]
