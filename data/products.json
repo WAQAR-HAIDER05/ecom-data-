@@ -2392,5 +2392,51 @@
     },
     "createdAt": "2025-08-30T16:23:39.835Z",
     "updatedAt": "2025-08-30T16:23:39.835Z"
+  },
+  {
+    "id": "product_1756571386345_zqlbi53kp",
+    "name": "Quadrus Ring (Mithra & Co.)",
+    "description": "High Quality and Trending. Its refined curves and delicate finish make it effortlessly versatile.\nA signature ring to treasure for everyday sophistication and special moments.",
+    "price": 1499,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756571374854.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756571378549.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756571380289.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756571382453.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756571384281.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "rings",
+    "material": "Stainless steel ",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel ",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel ",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-08-30T16:29:46.345Z",
+    "updatedAt": "2025-08-30T16:29:46.345Z"
   }
 ]
