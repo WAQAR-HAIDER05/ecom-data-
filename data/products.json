@@ -2794,5 +2794,53 @@
     },
     "createdAt": "2025-08-31T09:47:52.704Z",
     "updatedAt": "2025-08-31T09:47:52.704Z"
+  },
+  {
+    "id": "product_1756644975318_mv7rgbrmb",
+    "name": "Men's Quartz Watch",
+    "description": "Water Resistant ",
+    "price": 3250,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756644959165.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756644963092.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756644966281.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756644968845.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756644971837.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "Leather Strap",
+    "brand": "Tomi",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "leather strap",
+      "tomi",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Leather Strap",
+      "Brand": "Tomi",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-08-31T12:56:15.327Z",
+    "updatedAt": "2025-08-31T12:56:15.327Z"
   }
 ]
