@@ -2702,30 +2702,22 @@
     "updatedAt": "2025-08-31T09:12:47.657Z"
   },
   {
-    "id": "product_1756632786703_xfbq8qtca",
+    "id": "product_1756632957259_hhv78qurb",
     "name": "Men's Quartz Watch",
-    "description": "Water Resistant   ",
-    "price": 3250,
+    "description": "Water Resistant ",
+    "price": 3350,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756632759029.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756632762433.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756632764347.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756632766270.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756632768231.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756632770263.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756632772222.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756632775398.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756632777671.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756632779871.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756632782230.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756632784437.jpeg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756632949650.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756632951869.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756632953561.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756632955310.jpeg"
     ],
     "category": "watches",
     "subcategory": "male-watches",
     "material": "Leather Strap",
     "brand": "Tomi",
-    "gender": "unisex",
+    "gender": "male",
     "inStock": true,
     "featured": false,
     "isNew": true,
@@ -2737,21 +2729,23 @@
       "leather strap",
       "tomi",
       "branded",
-      "unisex",
+      "male",
+      "men",
+      "gents",
       "pakistan",
       "authentic"
     ],
     "specifications": {
       "Material": "Leather Strap",
       "Brand": "Tomi",
-      "Gender": "Unisex",
+      "Gender": "Male",
       "Category": "Watches",
       "Condition": "New",
       "Origin": "Authentic",
       "Type": "Analog",
       "Water Resistance": "Yes"
     },
-    "createdAt": "2025-08-31T09:33:06.704Z",
-    "updatedAt": "2025-08-31T09:33:06.704Z"
+    "createdAt": "2025-08-31T09:35:57.259Z",
+    "updatedAt": "2025-08-31T09:35:57.259Z"
   }
 ]
