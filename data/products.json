@@ -2653,5 +2653,52 @@
     },
     "createdAt": "2025-08-30T22:13:55.018Z",
     "updatedAt": "2025-08-30T22:13:55.023Z"
+  },
+  {
+    "id": "product_1756631567656_aif3rqotl",
+    "name": "Men's Quartz Watch",
+    "description": "Clasp Type: Hook Buckle\nBand Material Type: Leather\nWater Resistant\nDial Diameter: 4.2cm\nCase Thickness:1.0cm\nBand Length: 25.5cm\nBand Width: 2.2cm",
+    "price": 3450,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756631550472.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756631553384.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756631555303.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756631561297.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756631563544.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756631565662.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "",
+    "brand": "Tomi",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "tomi",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "Tomi",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-08-31T09:12:47.657Z",
+    "updatedAt": "2025-08-31T09:12:47.657Z"
   }
 ]
