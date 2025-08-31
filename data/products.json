@@ -2842,5 +2842,53 @@
     },
     "createdAt": "2025-08-31T12:56:15.327Z",
     "updatedAt": "2025-08-31T12:56:15.327Z"
+  },
+  {
+    "id": "product_1756647768519_15yo5hh6p",
+    "name": "Casino Watch",
+    "description": "Premium quality",
+    "price": 12500,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756647748258.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756647752212.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756647755214.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756647761813.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756647764941.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "Leather Strap",
+    "brand": "Hervi",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "leather strap",
+      "hervi",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Leather Strap",
+      "Brand": "Hervi",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-08-31T13:42:48.520Z",
+    "updatedAt": "2025-08-31T13:42:48.520Z"
   }
 ]
