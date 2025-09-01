@@ -2937,5 +2937,51 @@
     },
     "createdAt": "2025-09-01T08:28:26.656Z",
     "updatedAt": "2025-09-01T08:28:26.656Z"
+  },
+  {
+    "id": "product_1756726042459_zyi7illfo",
+    "name": "PRX",
+    "description": "Stainless steel chain \nHeavy weight and high finishing",
+    "price": 6500,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756726028765.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756726034351.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756726038862.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "Stainless Steel",
+    "brand": "Tissot",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "stainless steel",
+      "tissot",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless Steel",
+      "Brand": "Tissot",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-09-01T11:27:22.461Z",
+    "updatedAt": "2025-09-01T11:27:22.461Z"
   }
 ]
