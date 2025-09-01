@@ -2985,17 +2985,17 @@
     "updatedAt": "2025-09-01T11:27:22.461Z"
   },
   {
-    "id": "product_1756727758849_ogtas386x",
+    "id": "product_1756727826291_7ae8f0sqk",
     "name": "Diamond Dial",
     "description": "Diamond dial\nMaster lock with silicon straps",
     "price": 3450,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756727748887.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756727751054.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756727753046.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756727754815.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756727756536.jpeg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756727816018.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756727818327.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756727820248.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756727822329.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756727824252.jpeg"
     ],
     "category": "watches",
     "subcategory": "male-watches",
@@ -3029,7 +3029,7 @@
       "Type": "Analog",
       "Water Resistance": "Yes"
     },
-    "createdAt": "2025-09-01T11:55:58.849Z",
-    "updatedAt": "2025-09-01T11:55:58.849Z"
+    "createdAt": "2025-09-01T11:57:06.292Z",
+    "updatedAt": "2025-09-01T11:57:06.292Z"
   }
 ]
