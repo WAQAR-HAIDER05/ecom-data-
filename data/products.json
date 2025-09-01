@@ -2983,5 +2983,50 @@
     },
     "createdAt": "2025-09-01T11:27:22.461Z",
     "updatedAt": "2025-09-01T11:27:22.461Z"
+  },
+  {
+    "id": "product_1756727615675_b6sgwfbrr",
+    "name": "Diamond Dial",
+    "description": "Diamond dial\nMaster lock with silicon straps",
+    "price": 2999,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756727610648.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756727613840.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "Silicon strap ",
+    "brand": "Hublot",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "silicon strap ",
+      "hublot",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Silicon strap ",
+      "Brand": "Hublot",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-09-01T11:53:35.676Z",
+    "updatedAt": "2025-09-01T11:53:35.676Z"
   }
 ]
