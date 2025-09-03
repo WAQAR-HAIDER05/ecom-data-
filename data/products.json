@@ -3124,5 +3124,51 @@
     },
     "createdAt": "2025-09-03T21:15:48.148Z",
     "updatedAt": "2025-09-03T21:15:48.149Z"
+  },
+  {
+    "id": "product_1756934299531_xs2phhdw7",
+    "name": "Date Just",
+    "description": "AAA Quality\nStainless Steel\nCrown Lock",
+    "price": 4500,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756934285522.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756934288878.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756934291453.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756934294728.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756934297684.jpg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "Stainless Steel",
+    "brand": "Rolex",
+    "gender": "unisex",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "stainless steel",
+      "rolex",
+      "branded",
+      "unisex",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless Steel",
+      "Brand": "Rolex",
+      "Gender": "Unisex",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-09-03T21:18:19.531Z",
+    "updatedAt": "2025-09-03T21:18:19.531Z"
   }
 ]
