@@ -3126,17 +3126,17 @@
     "updatedAt": "2025-09-03T21:15:48.149Z"
   },
   {
-    "id": "product_1756934299531_xs2phhdw7",
-    "name": "Date Just",
+    "id": "product_1756934426511_bhse6964j",
+    "name": "Date-Just",
     "description": "AAA Quality\nStainless Steel\nCrown Lock",
     "price": 4500,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756934285522.jpg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756934288878.jpg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756934291453.jpg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756934294728.jpg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756934297684.jpg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756934406636.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756934412689.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756934420400.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756934422913.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1756934424536.jpg"
     ],
     "category": "watches",
     "subcategory": "male-watches",
@@ -3168,7 +3168,7 @@
       "Type": "Analog",
       "Water Resistance": "Yes"
     },
-    "createdAt": "2025-09-03T21:18:19.531Z",
-    "updatedAt": "2025-09-03T21:18:19.531Z"
+    "createdAt": "2025-09-03T21:20:26.511Z",
+    "updatedAt": "2025-09-03T21:20:26.511Z"
   }
 ]
