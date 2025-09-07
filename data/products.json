@@ -3301,18 +3301,16 @@
     "updatedAt": "2025-09-07T13:07:18.507Z"
   },
   {
-    "id": "product_1757251088009_7x8cjl7wr",
-    "name": "The Golden Maze",
-    "description": "This golden bangle features the iconic geometric motif, symbolising infinity and strength.\nIts polished shine radiates luxury, making it a versatile piece for both daily wear and special occasions.",
-    "price": 1250,
+    "id": "product_1757251365092_5pr3a0t3i",
+    "name": "Rings-Range",
+    "description": "A treasury of brilliance, designed to reflect your unique style and everlasting charm.\n800/- each",
+    "price": 800,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757251076697.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757251080835.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757251083397.jpeg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757251360498.jpeg"
     ],
     "category": "jewelry",
-    "subcategory": "handcuffs",
+    "subcategory": "rings",
     "material": "Stainless steel ",
     "brand": "Arhama Ki Dukan",
     "gender": "female",
@@ -3341,7 +3339,7 @@
       "Condition": "New",
       "Origin": "Authentic"
     },
-    "createdAt": "2025-09-07T13:18:08.010Z",
-    "updatedAt": "2025-09-07T13:18:08.010Z"
+    "createdAt": "2025-09-07T13:22:45.092Z",
+    "updatedAt": "2025-09-07T13:22:45.092Z"
   }
 ]
