@@ -3343,20 +3343,17 @@
     "updatedAt": "2025-09-07T13:22:45.092Z"
   },
   {
-    "id": "product_1757251645482_mp12pgyzo",
-    "name": "Cluster Cuff",
-    "description": "A statement of sophistication, designed for those who embrace bold yet classic style. ",
-    "price": 1650,
+    "id": "product_1757251915215_u9j8wb0ll",
+    "name": "Tres Bracelets",
+    "description": "A dazzling set of three golden chain bracelets, blending timeless charm with modern elegance. \nEach piece can be worn solo for a minimal touch or stacked together for a bold, radiant look.",
+    "price": 3250,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757251625630.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757251628688.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757251635943.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757251642292.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757251644135.jpeg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757251910584.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757251913757.jpeg"
     ],
     "category": "jewelry",
-    "subcategory": "handcuffs",
+    "subcategory": "combos",
     "material": "Stainless steel ",
     "brand": "Arhama Ki Dukan",
     "gender": "female",
@@ -3385,7 +3382,7 @@
       "Condition": "New",
       "Origin": "Authentic"
     },
-    "createdAt": "2025-09-07T13:27:25.483Z",
-    "updatedAt": "2025-09-07T13:27:25.483Z"
+    "createdAt": "2025-09-07T13:31:55.215Z",
+    "updatedAt": "2025-09-07T13:31:55.215Z"
   }
 ]
