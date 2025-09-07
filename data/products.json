@@ -3384,5 +3384,51 @@
     },
     "createdAt": "2025-09-07T13:31:55.215Z",
     "updatedAt": "2025-09-07T13:31:55.215Z"
+  },
+  {
+    "id": "product_1757252655947_t0t024mrl",
+    "name": "Heart of Grace",
+    "description": "A heart-shaped necklace, symbolising love, elegance, and devotion.\nIts radiant shine makes it perfect for everyday wear or as a cherished gift for someone special.",
+    "price": 480,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757252644609.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757252647813.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757252650386.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757252652367.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757252654209.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "necklaces",
+    "material": "Stainless steel ",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel ",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel ",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-09-07T13:44:15.948Z",
+    "updatedAt": "2025-09-07T13:44:15.948Z"
   }
 ]
