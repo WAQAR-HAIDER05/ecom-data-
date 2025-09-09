@@ -3430,5 +3430,53 @@
     },
     "createdAt": "2025-09-07T13:44:15.948Z",
     "updatedAt": "2025-09-07T13:44:15.948Z"
+  },
+  {
+    "id": "product_1757399447386_cgk67ua5q",
+    "name": "Heavy Weight",
+    "description": "Stainless steel\nHeavy weight\nPremium feel",
+    "price": 4999,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757399412543.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757399416922.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757399419931.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757399426438.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757399430476.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757399433599.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757399440046.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "Stainless Steel",
+    "brand": "Patek Philippe",
+    "gender": "unisex",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "stainless steel",
+      "patek philippe",
+      "branded",
+      "unisex",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless Steel",
+      "Brand": "Patek Philippe",
+      "Gender": "Unisex",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-09-09T06:30:47.387Z",
+    "updatedAt": "2025-09-09T06:30:47.387Z"
   }
 ]
