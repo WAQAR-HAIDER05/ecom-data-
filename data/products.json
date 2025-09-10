@@ -3478,5 +3478,54 @@
     },
     "createdAt": "2025-09-09T06:30:47.387Z",
     "updatedAt": "2025-09-09T06:30:47.387Z"
+  },
+  {
+    "id": "product_1757526174819_wqtax0osa",
+    "name": "Sport Watch",
+    "description": "Rubber Strap",
+    "price": 1650,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757526158981.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757526162883.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757526165863.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757526167984.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757526170427.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757526172621.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "Rubber Strap",
+    "brand": "Aulter",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "rubber strap",
+      "aulter",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Rubber Strap",
+      "Brand": "Aulter",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-09-10T17:42:54.821Z",
+    "updatedAt": "2025-09-10T17:42:54.821Z"
   }
 ]
