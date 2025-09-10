@@ -3527,5 +3527,50 @@
     },
     "createdAt": "2025-09-10T17:42:54.821Z",
     "updatedAt": "2025-09-10T17:42:54.821Z"
+  },
+  {
+    "id": "product_1757526674388_yqhdckuie",
+    "name": "Classic Skeleton",
+    "description": "Automatic\nGenuine Leather\nPremium Feel",
+    "price": 6499,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757526667675.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757526670433.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "Genuine Leather",
+    "brand": "Rolex",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "genuine leather",
+      "rolex",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Genuine Leather",
+      "Brand": "Rolex",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-09-10T17:51:14.389Z",
+    "updatedAt": "2025-09-10T17:51:14.389Z"
   }
 ]
