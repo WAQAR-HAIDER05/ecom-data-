@@ -3572,5 +3572,49 @@
     },
     "createdAt": "2025-09-10T17:51:14.389Z",
     "updatedAt": "2025-09-10T17:51:14.389Z"
+  },
+  {
+    "id": "product_1757526771183_7al5tnjym",
+    "name": "Classic Skeleton",
+    "description": "Automatic\nGenuine Leather\nPremium Feel",
+    "price": 6999,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757526765412.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757526767202.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757526769155.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "",
+    "brand": "Fitron",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "fitron",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "Fitron",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-09-10T17:52:51.184Z",
+    "updatedAt": "2025-09-10T17:52:51.184Z"
   }
 ]
