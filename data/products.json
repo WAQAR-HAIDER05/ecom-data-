@@ -3707,5 +3707,50 @@
     },
     "createdAt": "2025-09-12T10:36:04.298Z",
     "updatedAt": "2025-09-12T10:36:04.298Z"
+  },
+  {
+    "id": "product_1757708548761_9pu0q70vu",
+    "name": "Classic Slim",
+    "description": "Water Resistant\nDate Option\nSlim\nLeather Strap",
+    "price": 3750,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757708535933.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757708539080.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757708541241.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757708543080.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "",
+    "brand": "Rizen",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "rizen",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "Rizen",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-09-12T20:22:28.762Z",
+    "updatedAt": "2025-09-12T20:22:28.762Z"
   }
 ]
