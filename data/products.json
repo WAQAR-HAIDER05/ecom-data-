@@ -3664,5 +3664,48 @@
     },
     "createdAt": "2025-09-11T05:43:30.625Z",
     "updatedAt": "2025-09-11T05:43:30.625Z"
+  },
+  {
+    "id": "product_1757673230626_7x2wejaka",
+    "name": "Diamond Cut",
+    "description": "Stainless Steel\nQuartz Movement\nDiamond Cut",
+    "price": 3999,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757673224669.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757673228470.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "",
+    "brand": "Binbond",
+    "gender": "male",
+    "inStock": true,
+    "featured": true,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "binbond",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "Binbond",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-09-12T10:33:50.627Z",
+    "updatedAt": "2025-09-12T10:33:50.627Z"
   }
 ]
