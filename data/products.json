@@ -3752,5 +3752,47 @@
     },
     "createdAt": "2025-09-12T20:22:28.762Z",
     "updatedAt": "2025-09-12T20:22:28.762Z"
+  },
+  {
+    "id": "product_1757837956769_d6hgwf9jt",
+    "name": "Pro Beauty",
+    "description": "Stainless Steel\nQuartz Movement\nDate and Day Option",
+    "price": 4999,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757837952925.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "",
+    "brand": "Citizen",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "citizen",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "Citizen",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-09-14T08:19:16.770Z",
+    "updatedAt": "2025-09-14T08:19:16.770Z"
   }
 ]
