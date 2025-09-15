@@ -3794,5 +3794,51 @@
     },
     "createdAt": "2025-09-14T08:19:16.770Z",
     "updatedAt": "2025-09-14T08:19:16.770Z"
+  },
+  {
+    "id": "product_1757966771198_im6x378z8",
+    "name": "Classic Pro",
+    "description": "Quartz Movement\nDate Working\nPremium Strap ",
+    "price": 3850,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757966740076.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757966752879.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757966756873.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757966760477.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1757966764367.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "",
+    "brand": "Citizen",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "citizen",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "Citizen",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-09-15T20:06:11.199Z",
+    "updatedAt": "2025-09-15T20:06:11.199Z"
   }
 ]
