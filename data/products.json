@@ -3884,5 +3884,49 @@
     },
     "createdAt": "2025-09-15T20:09:38.662Z",
     "updatedAt": "2025-09-15T20:09:38.662Z"
+  },
+  {
+    "id": "product_1758138517988_2ox2jemnx",
+    "name": "Analogue Dial",
+    "description": "Genuine Leather\nDate Working\nEasy to Wear",
+    "price": 4250,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758138508734.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758138513652.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758138515803.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "",
+    "brand": "KWC",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "kwc",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "KWC",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-09-17T19:48:37.989Z",
+    "updatedAt": "2025-09-17T19:48:37.989Z"
   }
 ]
