@@ -3928,5 +3928,51 @@
     },
     "createdAt": "2025-09-17T19:48:37.989Z",
     "updatedAt": "2025-09-17T19:48:37.989Z"
+  },
+  {
+    "id": "product_1758138610547_2p2hn1o39",
+    "name": "Simple Classy",
+    "description": "Stainless Steel",
+    "price": 3999,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758138601529.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758138604156.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758138605791.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758138607555.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758138609116.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "female-watches",
+    "material": "",
+    "brand": "KWC",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "kwc",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "KWC",
+      "Gender": "Female",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-09-17T19:50:10.548Z",
+    "updatedAt": "2025-09-17T19:50:10.548Z"
   }
 ]
