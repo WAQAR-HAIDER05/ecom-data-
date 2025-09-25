@@ -4063,5 +4063,47 @@
     },
     "createdAt": "2025-09-25T10:15:15.754Z",
     "updatedAt": "2025-09-25T10:15:15.754Z"
+  },
+  {
+    "id": "product_1758811734214_3b27xv1wy",
+    "name": "Couple Class",
+    "description": "KWC Original Watches\nPremium Quality",
+    "price": 10500,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758811724619.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758811728939.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758811731514.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "",
+    "material": "",
+    "brand": "KWC",
+    "gender": "unisex",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "kwc",
+      "branded",
+      "unisex",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "KWC",
+      "Gender": "Unisex",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-09-25T14:48:54.214Z",
+    "updatedAt": "2025-09-25T14:48:54.214Z"
   }
 ]
