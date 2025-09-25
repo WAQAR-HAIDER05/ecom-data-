@@ -4021,5 +4021,47 @@
     },
     "createdAt": "2025-09-18T11:12:19.331Z",
     "updatedAt": "2025-09-18T11:12:19.331Z"
+  },
+  {
+    "id": "product_1758795315753_bbuv9hpfx",
+    "name": "Couple Watch",
+    "description": "Stainless Steel\nDate Working\n",
+    "price": 7499,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758795309408.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758795312302.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758795314152.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "",
+    "material": "",
+    "brand": "Rolex",
+    "gender": "unisex",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "rolex",
+      "branded",
+      "unisex",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "Rolex",
+      "Gender": "Unisex",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-09-25T10:15:15.754Z",
+    "updatedAt": "2025-09-25T10:15:15.754Z"
   }
 ]
