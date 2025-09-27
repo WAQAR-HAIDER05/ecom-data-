@@ -4149,20 +4149,20 @@
     "updatedAt": "2025-09-27T09:43:02.813Z"
   },
   {
-    "id": "product_1758984408472_54b1tcdj7",
+    "id": "product_1758984509981_daormrnk0",
     "name": "Pair Collection",
-    "description": "Genuine Leather\nOriginal Citron Watches",
-    "price": 5500,
+    "description": "Stainless Steel\nCrown Lock\nJubilee Chain",
+    "price": 9999,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758984402343.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758984405004.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758984406641.jpeg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758984502756.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758984506022.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758984507924.jpeg"
     ],
     "category": "watches",
     "subcategory": "",
     "material": "",
-    "brand": "Citron",
+    "brand": "Rolex",
     "gender": "unisex",
     "inStock": true,
     "featured": false,
@@ -4172,14 +4172,14 @@
       "timepiece",
       "watch",
       "luxury watch",
-      "citron",
+      "rolex",
       "branded",
       "unisex",
       "pakistan",
       "authentic"
     ],
     "specifications": {
-      "Brand": "Citron",
+      "Brand": "Rolex",
       "Gender": "Unisex",
       "Category": "Watches",
       "Condition": "New",
@@ -4187,7 +4187,7 @@
       "Type": "Analog",
       "Water Resistance": "Yes"
     },
-    "createdAt": "2025-09-27T14:46:48.473Z",
-    "updatedAt": "2025-09-27T14:46:48.473Z"
+    "createdAt": "2025-09-27T14:48:29.981Z",
+    "updatedAt": "2025-09-27T14:48:29.981Z"
   }
 ]
