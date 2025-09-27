@@ -4147,5 +4147,47 @@
     },
     "createdAt": "2025-09-27T09:43:02.813Z",
     "updatedAt": "2025-09-27T09:43:02.813Z"
+  },
+  {
+    "id": "product_1758984408472_54b1tcdj7",
+    "name": "Pair Collection",
+    "description": "Genuine Leather\nOriginal Citron Watches",
+    "price": 5500,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758984402343.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758984405004.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1758984406641.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "",
+    "material": "",
+    "brand": "Citron",
+    "gender": "unisex",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "citron",
+      "branded",
+      "unisex",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "Citron",
+      "Gender": "Unisex",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-09-27T14:46:48.473Z",
+    "updatedAt": "2025-09-27T14:46:48.473Z"
   }
 ]
