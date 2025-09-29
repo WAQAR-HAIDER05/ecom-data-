@@ -4283,5 +4283,47 @@
     },
     "createdAt": "2025-09-29T02:41:00.407Z",
     "updatedAt": "2025-09-29T02:41:00.407Z"
+  },
+  {
+    "id": "product_1759113858449_y4progk2e",
+    "name": "Regal Combo",
+    "description": "High Quality Trending Combo",
+    "price": 2800,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1759113854051.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "combos",
+    "material": "Stainless steel ",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel ",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel ",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-09-29T02:44:18.450Z",
+    "updatedAt": "2025-09-29T02:44:18.450Z"
   }
 ]
