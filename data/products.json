@@ -4240,5 +4240,48 @@
     },
     "createdAt": "2025-09-28T09:07:18.781Z",
     "updatedAt": "2025-09-28T09:07:18.781Z"
+  },
+  {
+    "id": "product_1759113660407_ofrlgf50a",
+    "name": "Tether bracelets ",
+    "description": "High Quality \nTrending bracelet Combo \n316L furnace",
+    "price": 2150,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1759113647126.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1759113655292.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "combos",
+    "material": "Stainless steel ",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "stainless steel ",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless steel ",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-09-29T02:41:00.407Z",
+    "updatedAt": "2025-09-29T02:41:00.407Z"
   }
 ]
