@@ -4325,5 +4325,49 @@
     },
     "createdAt": "2025-09-29T02:44:18.450Z",
     "updatedAt": "2025-09-29T02:44:18.450Z"
+  },
+  {
+    "id": "product_1759207224637_9bzube3d8",
+    "name": "Casual Watch",
+    "description": "Heavy Weight\nOriginal Watch",
+    "price": 5499,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1759207218087.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1759207221752.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1759207223316.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "",
+    "brand": "KWC",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "kwc",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "KWC",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-09-30T04:40:24.638Z",
+    "updatedAt": "2025-09-30T04:40:24.638Z"
   }
 ]
