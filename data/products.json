@@ -4553,5 +4553,49 @@
     },
     "createdAt": "2025-10-01T03:59:53.489Z",
     "updatedAt": "2025-10-01T03:59:53.489Z"
+  },
+  {
+    "id": "product_1759694463820_9ij8nweck",
+    "name": "Steel Watch",
+    "description": "Automatic Watch\nWith Steel Case\n",
+    "price": 10500,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1759694432735.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1759694447020.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1759694456754.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "",
+    "brand": "D-Ziner",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "d-ziner",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "D-Ziner",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-10-05T20:01:03.820Z",
+    "updatedAt": "2025-10-05T20:01:03.820Z"
   }
 ]
