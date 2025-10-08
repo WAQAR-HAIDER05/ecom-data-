@@ -4686,5 +4686,50 @@
     },
     "createdAt": "2025-10-06T10:01:00.506Z",
     "updatedAt": "2025-10-06T10:01:00.506Z"
+  },
+  {
+    "id": "product_1759915513430_2uzd7tqhf",
+    "name": "Evolution Watch",
+    "description": "Dual Time\nStainless Steel\nWith Light Mode",
+    "price": 4500,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1759915502311.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1759915505423.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1759915508018.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1759915510934.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "",
+    "brand": "X-Gear",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "x-gear",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "X-Gear",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-10-08T09:25:13.431Z",
+    "updatedAt": "2025-10-08T09:25:13.431Z"
   }
 ]
