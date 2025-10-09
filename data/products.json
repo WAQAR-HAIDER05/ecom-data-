@@ -4778,13 +4778,13 @@
     "updatedAt": "2025-10-09T10:44:52.819Z"
   },
   {
-    "id": "product_1760006986113_1cgpna6tn",
+    "id": "product_1760007057823_87tlrsisi",
     "name": "Dual Time",
     "description": "Premium Quality",
-    "price": 6300,
+    "price": 4850,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1760006982403.jpeg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1760007054885.jpeg"
     ],
     "category": "watches",
     "subcategory": "male-watches",
@@ -4816,7 +4816,7 @@
       "Type": "Analog",
       "Water Resistance": "Yes"
     },
-    "createdAt": "2025-10-09T10:49:46.113Z",
-    "updatedAt": "2025-10-09T10:49:46.113Z"
+    "createdAt": "2025-10-09T10:50:57.824Z",
+    "updatedAt": "2025-10-09T10:50:57.824Z"
   }
 ]
