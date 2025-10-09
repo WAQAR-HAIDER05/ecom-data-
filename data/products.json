@@ -4776,5 +4776,47 @@
     },
     "createdAt": "2025-10-09T10:44:52.819Z",
     "updatedAt": "2025-10-09T10:44:52.819Z"
+  },
+  {
+    "id": "product_1760006986113_1cgpna6tn",
+    "name": "Dual Time",
+    "description": "Premium Quality",
+    "price": 6300,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1760006982403.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "",
+    "brand": "Skmei",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "skmei",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "Skmei",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-10-09T10:49:46.113Z",
+    "updatedAt": "2025-10-09T10:49:46.113Z"
   }
 ]
