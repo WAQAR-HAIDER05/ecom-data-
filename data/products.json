@@ -4731,5 +4731,50 @@
     },
     "createdAt": "2025-10-08T09:25:13.431Z",
     "updatedAt": "2025-10-08T09:25:13.431Z"
+  },
+  {
+    "id": "product_1760006692818_hxuz3za0t",
+    "name": "Two Needle Slim Watch",
+    "description": "Premium Quality",
+    "price": 4500,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1760006682662.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1760006685502.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1760006687545.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1760006689899.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "",
+    "brand": "Honmin",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "honmin",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "Honmin",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-10-09T10:44:52.819Z",
+    "updatedAt": "2025-10-09T10:44:52.819Z"
   }
 ]
