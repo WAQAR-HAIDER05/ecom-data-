@@ -4818,5 +4818,48 @@
     },
     "createdAt": "2025-10-09T10:50:57.824Z",
     "updatedAt": "2025-10-09T10:50:57.824Z"
+  },
+  {
+    "id": "product_1760601718931_kcj9vu12a",
+    "name": "Classy on Hand",
+    "description": "Premium Quality",
+    "price": 3999,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1760601712651.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1760601715776.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "",
+    "brand": "Pedagar",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "pedagar",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "Pedagar",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-10-16T08:01:58.932Z",
+    "updatedAt": "2025-10-16T08:01:58.932Z"
   }
 ]
