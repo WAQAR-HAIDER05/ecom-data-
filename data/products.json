@@ -4863,18 +4863,20 @@
     "updatedAt": "2025-10-16T08:01:58.932Z"
   },
   {
-    "id": "product_1760867062138_nip71nox2",
-    "name": "Casual Class",
+    "id": "product_1760867125776_zx8mtrzuu",
+    "name": "Casual Wear",
     "description": "Premium Quality\nChronograph Working",
-    "price": 6799,
+    "price": 6499,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1760867059264.jpeg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1760867119052.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1760867121430.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1760867124072.jpeg"
     ],
     "category": "watches",
     "subcategory": "male-watches",
     "material": "",
-    "brand": "Omega",
+    "brand": "Tissot",
     "gender": "male",
     "inStock": true,
     "featured": false,
@@ -4884,7 +4886,7 @@
       "timepiece",
       "watch",
       "luxury watch",
-      "omega",
+      "tissot",
       "branded",
       "male",
       "men",
@@ -4893,7 +4895,7 @@
       "authentic"
     ],
     "specifications": {
-      "Brand": "Omega",
+      "Brand": "Tissot",
       "Gender": "Male",
       "Category": "Watches",
       "Condition": "New",
@@ -4901,7 +4903,7 @@
       "Type": "Analog",
       "Water Resistance": "Yes"
     },
-    "createdAt": "2025-10-19T09:44:22.139Z",
-    "updatedAt": "2025-10-19T09:44:22.139Z"
+    "createdAt": "2025-10-19T09:45:25.776Z",
+    "updatedAt": "2025-10-19T09:45:25.777Z"
   }
 ]
