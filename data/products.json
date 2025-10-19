@@ -4861,5 +4861,47 @@
     },
     "createdAt": "2025-10-16T08:01:58.932Z",
     "updatedAt": "2025-10-16T08:01:58.932Z"
+  },
+  {
+    "id": "product_1760867062138_nip71nox2",
+    "name": "Casual Class",
+    "description": "Premium Quality\nChronograph Working",
+    "price": 6799,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1760867059264.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "",
+    "brand": "Omega",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "omega",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "Omega",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-10-19T09:44:22.139Z",
+    "updatedAt": "2025-10-19T09:44:22.139Z"
   }
 ]
