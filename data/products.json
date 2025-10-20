@@ -4905,5 +4905,47 @@
     },
     "createdAt": "2025-10-19T09:45:25.776Z",
     "updatedAt": "2025-10-19T09:45:25.777Z"
+  },
+  {
+    "id": "product_1760958373635_gxk5zzbbt",
+    "name": "Casual Wear",
+    "description": "Premium Quality",
+    "price": 6799,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1760958369012.jpeg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "",
+    "brand": "Omega",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "omega",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "Omega",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-10-20T11:06:13.636Z",
+    "updatedAt": "2025-10-20T11:06:13.636Z"
   }
 ]
