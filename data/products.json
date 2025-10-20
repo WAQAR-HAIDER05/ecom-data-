@@ -4949,14 +4949,13 @@
     "updatedAt": "2025-10-20T11:06:13.636Z"
   },
   {
-    "id": "product_1760962499935_tr6wwbwcg",
-    "name": "Roman Numeral Ring",
-    "description": "Stainless Steel\nTurnish Free",
-    "price": 999,
+    "id": "product_1760962647080_2cwkiwl54",
+    "name": "Star Ring",
+    "description": "Stainless Steel\nTurnish Free\nHigh Finishing",
+    "price": 1499,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1760962493026.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1760962497863.jpeg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1760962642122.jpeg"
     ],
     "category": "jewelry",
     "subcategory": "rings",
@@ -4986,7 +4985,7 @@
       "Condition": "New",
       "Origin": "Authentic"
     },
-    "createdAt": "2025-10-20T12:14:59.936Z",
-    "updatedAt": "2025-10-20T12:14:59.936Z"
+    "createdAt": "2025-10-20T12:17:27.080Z",
+    "updatedAt": "2025-10-20T12:17:27.080Z"
   }
 ]
