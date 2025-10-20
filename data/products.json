@@ -4987,5 +4987,45 @@
     },
     "createdAt": "2025-10-20T12:17:27.080Z",
     "updatedAt": "2025-10-20T12:17:27.080Z"
+  },
+  {
+    "id": "product_1760962732319_s3mr40bbb",
+    "name": "Premium Handcuff",
+    "description": "Stainless Steel\nTurnish Free\nHigh Finishing",
+    "price": 1750,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1760962727902.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "handcuffs",
+    "material": "",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-10-20T12:18:52.319Z",
+    "updatedAt": "2025-10-20T12:18:52.319Z"
   }
 ]
