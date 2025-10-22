@@ -5027,5 +5027,46 @@
     },
     "createdAt": "2025-10-20T12:18:52.319Z",
     "updatedAt": "2025-10-20T12:18:52.319Z"
+  },
+  {
+    "id": "product_1761125390268_71s30lf40",
+    "name": "Diamond Bracelet",
+    "description": "Premium Quality",
+    "price": 999,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1761125384616.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1761125387991.jpeg"
+    ],
+    "category": "jewelry",
+    "subcategory": "bracelets",
+    "material": "",
+    "brand": "Arhama Ki Dukan",
+    "gender": "female",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "jewelry",
+      "accessory",
+      "luxury jewelry",
+      "arhama ki dukan",
+      "branded",
+      "female",
+      "women",
+      "ladies",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Female",
+      "Category": "Jewelry",
+      "Condition": "New",
+      "Origin": "Authentic"
+    },
+    "createdAt": "2025-10-22T09:29:50.271Z",
+    "updatedAt": "2025-10-22T09:29:50.271Z"
   }
 ]
