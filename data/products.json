@@ -5029,18 +5029,17 @@
     "updatedAt": "2025-10-20T12:18:52.319Z"
   },
   {
-    "id": "product_1761125506947_0sdlvz1x9",
-    "name": "Double Layered Necklace",
+    "id": "product_1761125597187_3wksx42cq",
+    "name": "Wear the Class",
     "description": "Premium Quality",
-    "price": 1650,
+    "price": 1250,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1761125500845.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1761125503241.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1761125504870.jpeg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1761125592317.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1761125594675.jpeg"
     ],
     "category": "jewelry",
-    "subcategory": "necklaces",
+    "subcategory": "bracelets",
     "material": "",
     "brand": "Arhama Ki Dukan",
     "gender": "female",
@@ -5067,7 +5066,7 @@
       "Condition": "New",
       "Origin": "Authentic"
     },
-    "createdAt": "2025-10-22T09:31:46.947Z",
-    "updatedAt": "2025-10-22T09:31:46.947Z"
+    "createdAt": "2025-10-22T09:33:17.187Z",
+    "updatedAt": "2025-10-22T09:33:17.187Z"
   }
 ]
