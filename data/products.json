@@ -5029,16 +5029,18 @@
     "updatedAt": "2025-10-20T12:18:52.319Z"
   },
   {
-    "id": "product_1761125448819_n2u3x47uq",
-    "name": "Pearl Bracelet",
+    "id": "product_1761125506947_0sdlvz1x9",
+    "name": "Double Layered Necklace",
     "description": "Premium Quality",
-    "price": 799,
+    "price": 1650,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1761125446157.jpeg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1761125500845.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1761125503241.jpeg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1761125504870.jpeg"
     ],
     "category": "jewelry",
-    "subcategory": "bracelets",
+    "subcategory": "necklaces",
     "material": "",
     "brand": "Arhama Ki Dukan",
     "gender": "female",
@@ -5065,7 +5067,7 @@
       "Condition": "New",
       "Origin": "Authentic"
     },
-    "createdAt": "2025-10-22T09:30:48.819Z",
-    "updatedAt": "2025-10-22T09:30:48.819Z"
+    "createdAt": "2025-10-22T09:31:46.947Z",
+    "updatedAt": "2025-10-22T09:31:46.947Z"
   }
 ]
