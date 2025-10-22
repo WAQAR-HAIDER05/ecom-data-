@@ -5029,14 +5029,13 @@
     "updatedAt": "2025-10-20T12:18:52.319Z"
   },
   {
-    "id": "product_1761125390268_71s30lf40",
-    "name": "Diamond Bracelet",
+    "id": "product_1761125448819_n2u3x47uq",
+    "name": "Pearl Bracelet",
     "description": "Premium Quality",
-    "price": 999,
+    "price": 799,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1761125384616.jpeg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1761125387991.jpeg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1761125446157.jpeg"
     ],
     "category": "jewelry",
     "subcategory": "bracelets",
@@ -5066,7 +5065,7 @@
       "Condition": "New",
       "Origin": "Authentic"
     },
-    "createdAt": "2025-10-22T09:29:50.271Z",
-    "updatedAt": "2025-10-22T09:29:50.271Z"
+    "createdAt": "2025-10-22T09:30:48.819Z",
+    "updatedAt": "2025-10-22T09:30:48.819Z"
   }
 ]
