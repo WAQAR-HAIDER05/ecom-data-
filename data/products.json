@@ -5068,5 +5068,60 @@
     },
     "createdAt": "2025-10-22T09:33:17.187Z",
     "updatedAt": "2025-10-22T09:33:17.187Z"
+  },
+  {
+    "id": "product_1762522312768_636x7m1bf",
+    "name": "Lot Import Watches",
+    "description": "Stainless Steel\nPremium Quality",
+    "price": 10000,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1762522278122.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1762522283799.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1762522286420.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1762522289519.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1762522291867.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1762522294285.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1762522297001.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1762522299287.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1762522301650.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1762522304415.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1762522307024.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1762522309892.jpg"
+    ],
+    "category": "watches",
+    "subcategory": "male-watches",
+    "material": "Stainless Steel",
+    "brand": "Arhama Ki Dukan",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "stainless steel",
+      "arhama ki dukan",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Material": "Stainless Steel",
+      "Brand": "Arhama Ki Dukan",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-11-07T13:31:52.771Z",
+    "updatedAt": "2025-11-07T13:31:52.781Z"
   }
 ]
