@@ -5168,5 +5168,51 @@
     },
     "createdAt": "2025-12-02T13:35:05.713Z",
     "updatedAt": "2025-12-02T13:35:05.730Z"
+  },
+  {
+    "id": "product_1764682801235_7x9q3r05t",
+    "name": "Pearl Edition",
+    "description": "Automatic Movement\nComes with Premium Packaging",
+    "price": 21500,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1764682791549.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1764682794596.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1764682796354.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1764682798224.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1764682799860.jpg"
+    ],
+    "category": "watches",
+    "subcategory": "premium-luxury",
+    "material": "",
+    "brand": "Rolex",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "rolex",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "Rolex",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-12-02T13:40:01.250Z",
+    "updatedAt": "2025-12-02T13:40:01.257Z"
   }
 ]
