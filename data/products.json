@@ -5170,22 +5170,25 @@
     "updatedAt": "2025-12-02T13:35:05.730Z"
   },
   {
-    "id": "product_1764682930770_s2ba36rrt",
+    "id": "product_1764683145715_drodti0ty",
     "name": "Easy on Pocket",
     "description": "Silicon Strap",
-    "price": 3650,
+    "price": 4650,
     "currency": "PKR",
     "images": [
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1764682923045.jpg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1764682925798.jpg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1764682927671.jpg",
-      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1764682929427.jpg"
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1764683130289.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1764683133505.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1764683135527.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1764683137470.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1764683139312.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1764683141424.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1764683143613.jpg"
     ],
     "category": "watches",
     "subcategory": "male-watches",
     "material": "",
-    "brand": "ABC",
-    "gender": "unisex",
+    "brand": "Fashion Watch",
+    "gender": "male",
     "inStock": true,
     "featured": false,
     "isNew": true,
@@ -5194,22 +5197,24 @@
       "timepiece",
       "watch",
       "luxury watch",
-      "abc",
+      "fashion watch",
       "branded",
-      "unisex",
+      "male",
+      "men",
+      "gents",
       "pakistan",
       "authentic"
     ],
     "specifications": {
-      "Brand": "ABC",
-      "Gender": "Unisex",
+      "Brand": "Fashion Watch",
+      "Gender": "Male",
       "Category": "Watches",
       "Condition": "New",
       "Origin": "Authentic",
       "Type": "Analog",
       "Water Resistance": "Yes"
     },
-    "createdAt": "2025-12-02T13:42:10.773Z",
-    "updatedAt": "2025-12-02T13:42:10.784Z"
+    "createdAt": "2025-12-02T13:45:45.719Z",
+    "updatedAt": "2025-12-02T13:45:45.728Z"
   }
 ]
