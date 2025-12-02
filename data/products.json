@@ -5123,5 +5123,50 @@
     },
     "createdAt": "2025-11-07T13:31:52.771Z",
     "updatedAt": "2025-11-07T13:31:52.781Z"
+  },
+  {
+    "id": "product_1764682505709_txekgeuyf",
+    "name": "Skeleton Watch",
+    "description": "Automatic Movement\nComes with Premium Packaging\n",
+    "price": 20500,
+    "currency": "PKR",
+    "images": [
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1764682497166.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1764682500041.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1764682501920.jpg",
+      "https://raw.githubusercontent.com/WAQAR-HAIDER05/ecom-data-/main/images/products/product-1764682503225.jpg"
+    ],
+    "category": "watches",
+    "subcategory": "premium-luxury",
+    "material": "",
+    "brand": "AP",
+    "gender": "male",
+    "inStock": true,
+    "featured": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "timepiece",
+      "watch",
+      "luxury watch",
+      "ap",
+      "branded",
+      "male",
+      "men",
+      "gents",
+      "pakistan",
+      "authentic"
+    ],
+    "specifications": {
+      "Brand": "AP",
+      "Gender": "Male",
+      "Category": "Watches",
+      "Condition": "New",
+      "Origin": "Authentic",
+      "Type": "Analog",
+      "Water Resistance": "Yes"
+    },
+    "createdAt": "2025-12-02T13:35:05.713Z",
+    "updatedAt": "2025-12-02T13:35:05.730Z"
   }
 ]
